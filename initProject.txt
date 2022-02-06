@@ -1,0 +1,6 @@
+mkdir nft-tutorial
+cd nft-tutorial/
+npm init --yes
+npm install hardhat @openzeppelin/contracts --save-dev
+npx hardhat -> cliccare invio su tutto creando basic project
+
